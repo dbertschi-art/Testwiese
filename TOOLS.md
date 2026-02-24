@@ -17,11 +17,9 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 - `https://outlook.office365.com/.default`
 - `offline_access`
 
-### Client Secret
 - ✅ Gespeichert (nicht in diesem File)
 
 ## ElevenLabs TTS
-- API Key: sk_8507d6e6ec6570268322606cea0a493a77876f0c77368529
 - Provider: OpenClaw TTS
 
 ### TTS Config (aktuell)
