@@ -1,0 +1,17 @@
+# Ignore large files
+*.mp3
+*.onnx
+
+# Ignore node_modules, python cache
+node_modules/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Ignore tokens and secrets
+.tokens/
+*.json (except package.json)
+
+# OS
+.DS_Store
+Thumbs.db
